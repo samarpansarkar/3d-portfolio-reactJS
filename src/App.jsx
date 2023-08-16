@@ -24,3 +24,5 @@ const App = () => {
 };
 
 export default App;
+
+// open hero.jsx and fix the computer.jsx error to render "the computer"
