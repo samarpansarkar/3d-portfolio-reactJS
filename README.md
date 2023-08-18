@@ -12,5 +12,5 @@ Currently, two official plugins are available:
 
 
 My note:
-TODO: 1.open Hero.jsx(line:27)
-      2.open Computer.jsx (new)
+TODO: G:\vs_code\ReactJs\3d-portfolio-reactJS\src\constants\index.js
+G:\vs_code\ReactJs\3d-portfolio-reactJS\src\assets\index.js fix all the assets

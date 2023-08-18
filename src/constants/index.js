@@ -198,21 +198,17 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Weather App",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Introducing our innovative weather app built with the power of Flutter and real-time weather data from a reliable weather API. With this user-friendly and visually appealing application, staying informed about the weather has never been easier.",
     tags: [
       {
-        name: "react",
+        name: "flutter",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "weatherAPI",
         color: "green-text-gradient",
-      },
-      {
-        name: "tailwind",
-        color: "pink-text-gradient",
       },
     ],
     image: carrent,
